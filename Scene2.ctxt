@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Scene2
+comment0.text=\r\n\ \r\n\ kbilak@email.uscb.edu\r\n\ Dev\ status\:\ Active\ (Not\ complete)\r\n
+comment1.params=
+comment1.target=Scene2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Scene2\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
